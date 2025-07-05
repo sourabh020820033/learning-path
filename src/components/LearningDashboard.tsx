@@ -73,7 +73,7 @@ export const LearningDashboard = ({ data, onReset }: LearningDashboardProps) => 
           </Button>
           <div className="text-center">
             <h1 className="text-3xl font-bold text-gray-900">ML-Powered Learning Dashboard</h1>
-            <p className="text-gray-600">AI-analyzed learning path based on your goals and current skills</p>
+            <p className="text-gray-600">learning path based on your goals and current skills</p>
           </div>
           <div className="w-24" />
         </div>

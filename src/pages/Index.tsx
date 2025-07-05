@@ -48,7 +48,7 @@ const Index = () => {
             </div>
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            AI-Powered Learning Dashboard
+           Learning Dashboard
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Enhance your skills with personalized learning paths powered by machine learning
